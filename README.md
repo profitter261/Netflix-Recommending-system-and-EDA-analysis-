@@ -46,6 +46,7 @@ This project presents a comprehensive data analysis and interactive dashboard on
   - Top 10 contributing countries
   - Type-wise split of content
   - Director analysis
-## 📁 Dataset
-- [Netflix dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
-- Contains info like: Title, Director, Country, Date Added, Duration, Genre
+## 📁 Dataset source 1
+- [Netflix dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+## 📁 Dataset Source 2
+- [Netflix dataset on Kaggle 2](https://www.kaggle.com/datasets/hassanraof/top10k-tmdb-movies-csv)
